@@ -1,0 +1,10 @@
+class A:
+     def show(self):
+        print("Hello python:")
+class B(A):
+     def disp(self):
+         print("Python is a simple language:")
+
+obj = Maruti()
+obj.show()
+obj.disp()
