@@ -5,6 +5,6 @@ class B(A):
      def disp(self):
          print("Python is a simple language:")
 
-obj = Maruti()
+obj = B()
 obj.show()
 obj.disp()
